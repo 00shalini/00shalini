@@ -13,8 +13,13 @@
 
 :earth_africa: Find me on:
 
-![https://www.linkedin.com/in/shalini-sharma-8b0466163/](https://icons.iconarchive.com/icons/limav/flat-gradient-social/24/Linkedin-icon.png) https://www.linkedin.com/in/shalini-sharma-8b0466163/ 
+![https://www.linkedin.com/in/shalini-sharma-8b0466163/](https://icons.iconarchive.com/icons/limav/flat-gradient-social/32/Linkedin-icon.png) https://www.linkedin.com/in/shalini-sharma-8b0466163/ 
 
-![medium-circle_1](https://user-images.githubusercontent.com/61345989/125027224-8a543e80-e0a3-11eb-8210-1a9ca27fac60.jpg)
+![492-4929307_medium-logo-png (3)](https://user-images.githubusercontent.com/61345989/125029386-29c70080-e0a7-11eb-84c7-2772811991d7.jpg) https://shalini07061997.medium.com/
+
+
+
+
+
 
 
