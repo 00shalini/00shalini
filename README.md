@@ -1,5 +1,8 @@
 ## Hi there, I'm Shalini 👋
 
+![Full Stack WEb developer v1](https://user-images.githubusercontent.com/61345989/125043522-a6160f80-e0b8-11eb-8ed1-d7c43e47f41a.jpg)
+
+
 #### I am a Full Stack web developer. Proficient in developing projects in collaboration as well as independently. I like developing websites. I have collaborated in 5+ projects.
 
 ### Worked on
