@@ -20,6 +20,7 @@
 
 ![492-4929307_medium-logo-png (3)](https://user-images.githubusercontent.com/61345989/125029386-29c70080-e0a7-11eb-84c7-2772811991d7.jpg) https://shalini07061997.medium.com/
 
+<img src="https://cdn.iconscout.com/icon/free/png-512/adobe-portfolio-2522508-2132696.png" width='30px'> https://portfolioshalini.netlify.app 
 
 [![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
