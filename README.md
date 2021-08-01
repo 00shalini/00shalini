@@ -21,9 +21,10 @@
 ![492-4929307_medium-logo-png (3)](https://user-images.githubusercontent.com/61345989/125029386-29c70080-e0a7-11eb-84c7-2772811991d7.jpg) https://shalini07061997.medium.com/
 
 
-[![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=00shalini)](https://github.com/anuraghazra/github-readme-stats)
+[![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00shalini)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
