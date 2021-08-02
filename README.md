@@ -13,6 +13,7 @@
 * React
 * Redux
 * MongoDb
+* Libraries (MongoDb, Antd, Bootstrap)
 
 :earth_africa: Find me on:
 
@@ -22,7 +23,7 @@
 
 <img src="https://cdn.iconscout.com/icon/free/png-512/adobe-portfolio-2522508-2132696.png" width='30px'> https://portfolioshalini.netlify.app 
 
-[![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Shalini's GitHub stats](https://github-readme-stats.vercel.app/api?username=00shalini&show_icons=true)](https://github.com/00shalini/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
