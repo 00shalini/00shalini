@@ -5,7 +5,7 @@
 
 #### I am a Full Stack web developer. I am passionate about developing projects in collaboration as well as independently. I like developing websites. I have collaborated in 5+ projects. Other than coding, I also write blogs. 
 
-### Worked on
+:computer: ### Worked on
 
 * HTML
 * CSS
@@ -27,8 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00shalini&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+## Achievements
 
-
-
+<img src="http://iconsetc.com/icons-watermarks/flat-circle-white-on-black/iconathon/iconathon_hackathon/iconathon_hackathon_flat-circle-white-on-black_512x512.png" margintop='5px' width='40px' alt='hackathon'> Got 2nd Prize :2nd_place_medal: in Masai School Hackathon on building project (TutorTown) 
 
 
